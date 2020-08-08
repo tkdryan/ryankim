@@ -7,15 +7,15 @@ body {
 }
 @font-face {
     font-family: graffitiShadow;
-    src: url(/SpriteGraffiti/SpriteGraffiti-Shadow.ttf);
+    src: url(SpriteGraffiti/SpriteGraffiti-Shadow.ttf);
 }
 @font-face {
     font-family: graffitiRegular;
-    src: url(/SpriteGraffiti/SpriteGraffiti-Regular.ttf);
+    src: url(SpriteGraffiti/SpriteGraffiti-Regular.ttf);
 }
 @font-face {
     font-family: graffitiExtra;
-    src: url(/SpriteGraffiti/SpriteGraffiti-Extras.ttf);
+    src: url(SpriteGraffiti/SpriteGraffiti-Extras.ttf);
 }
 
 .navbar {
@@ -82,7 +82,7 @@ audio {
     color: rgb(221, 255, 241);
     padding-left: 7em;
     padding-bottom: 2px;
-    background: url(/isyou.png);
+    background: url(isyou.png);
     background-repeat: no-repeat;
     background-size: 100%;
     background-color: white;
